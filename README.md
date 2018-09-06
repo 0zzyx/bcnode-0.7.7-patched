@@ -1,4 +1,6 @@
-# bcnode 0.7.7 clean with optimized primitives.es6 and lsk rover controller from 0.8.0
+# bcnode 0.7.7 clean with optimized primitives.es6 and lsk rover controller from 0.7.9
+
+lsk controller replacement community ref: https://t.me/blockcollideradvanced/37037
 
 primitives.es6 mod ref: https://github.com/lgray/bcnode-unpacked/compare/0.7.7...optimizations_077
 
